@@ -2,5 +2,9 @@ texto nuevo
 
 agregar cosas
 
+<<<<<<< HEAD
 
 agregar cosas desde el remoto
+=======
+agregar cosas desde git
+>>>>>>> 4b0173e2c5fcad66187bcc6051f808606b5ac851
