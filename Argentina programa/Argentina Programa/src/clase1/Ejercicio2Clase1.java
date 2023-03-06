@@ -2,7 +2,7 @@ package clase1;
 
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class Ejercicio2Clase1 {
     public void ingresosAltos(){
         boolean ingresosALtos = false;
         Scanner leer = new Scanner(System.in);

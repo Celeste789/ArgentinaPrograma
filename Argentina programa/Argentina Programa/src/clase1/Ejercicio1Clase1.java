@@ -1,6 +1,6 @@
 package clase1;
 
-public class Ejercicio1 {
+public class Ejercicio1Clase1 {
 
     public static void ejercicio1A(int a, int b){
         while (a <= b){
